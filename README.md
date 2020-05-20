@@ -15,5 +15,5 @@ This is a simple image encryption code for beginers to practice the matlab code.
        
        %%%%%%%%%%%-------------------$$$$$$$$>>>>> BY jithin K C <<<<$$$$$$$$$-----------------%%%%%%%%%%%%%% @@@ 
      
-       If you need any image encryption code or any matlab code for your system contact us:
+       If you need any image encryption code or any matlab code for your system contact me:
         for any queries contact: jithinkc22@gmail.com
